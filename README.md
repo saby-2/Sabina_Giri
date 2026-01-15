@@ -15,4 +15,4 @@ I enjoy working on data-driven problems, building and validating machine learnin
 I use this GitHub to share selected academic and personal projects related to AI and analytics.
 
 ### Connect with me
-- LinkedIn: https://linkedin.com/in/sabinagiri
+- LinkedIn: https://www.linkedin.com/in/sabina-giri/
